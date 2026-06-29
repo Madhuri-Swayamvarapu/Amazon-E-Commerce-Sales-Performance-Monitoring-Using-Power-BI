@@ -61,9 +61,7 @@ The dashboard consists of **five interactive pages**, each focusing on a differe
 <img width="1156" height="648" alt="Screenshot 2026-06-29 203747" src="https://github.com/user-attachments/assets/65d7b965-8bbd-404c-b298-eee13518d0c4" />
 
 
-```markdown
-![Executive Dashboard](Images/executive_dashboard.png)
-```
+
 
 ### Purpose
 
@@ -98,9 +96,7 @@ Provides a high-level overview of business performance using key performance ind
 <img width="1153" height="652" alt="Screenshot 2026-06-29 203813" src="https://github.com/user-attachments/assets/c8de9f48-fd87-4c90-b60d-1c79866acce5" />
 
 
-```markdown
-![Product Performance](Images/product_dashboard.png)
-```
+
 
 ### Purpose
 
@@ -133,9 +129,7 @@ Provides detailed analysis of product and category performance.
 <img width="1152" height="652" alt="Screenshot 2026-06-29 203835" src="https://github.com/user-attachments/assets/a425edc3-b02b-4039-ae77-1a9fd5b55456" />
 
 
-```markdown
-![Delivery Dashboard](Images/delivery_dashboard.png)
-```
+
 
 ### Purpose
 
@@ -169,9 +163,7 @@ Analyzes delivery operations, payment methods and shipping costs.
 <img width="1160" height="657" alt="Screenshot 2026-06-29 203854" src="https://github.com/user-attachments/assets/1538831a-9ccc-474b-8a25-2e9c16d004ce" />
 
 
-```markdown
-![Time Intelligence Dashboard](Images/time_dashboard.png)
-```
+
 
 ### Purpose
 
@@ -221,9 +213,7 @@ YTD Growth %
 <img width="1162" height="658" alt="Screenshot 2026-06-29 203914" src="https://github.com/user-attachments/assets/ff533a7b-ebda-4d6d-a7cd-0c01c5a9e20a" />
 
 
-```markdown
-![Business Insights](Images/insights_dashboard.png)
-```
+
 
 ### Summary
 
