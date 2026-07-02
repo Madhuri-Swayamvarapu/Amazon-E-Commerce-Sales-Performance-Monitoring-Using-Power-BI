@@ -58,7 +58,9 @@ The dashboard consists of **five interactive pages**, each focusing on a differe
 
 # 🏠 1. Executive Dashboard
 
-<img width="1156" height="648" alt="Screenshot 2026-06-29 203747" src="https://github.com/user-attachments/assets/65d7b965-8bbd-404c-b298-eee13518d0c4" />
+
+<img width="1123" height="641" alt="image" src="https://github.com/user-attachments/assets/42ef1d8b-655c-4519-a47f-69efc06c31be" />
+
 
 
 
